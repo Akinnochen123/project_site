@@ -1,0 +1,17 @@
+body {
+    background: purple;
+    opacity: 0.6;
+    color: white;
+
+}
+
+img {
+    border-radius: 50%;
+}
+
+@media (max-width: 767px) {
+    body {
+        background: rebeccapurple;
+        opacity: 0.6;
+    }
+}
